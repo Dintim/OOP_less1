@@ -4,7 +4,6 @@
 
 class  drob
 {
-
 	int x;
 	int y;
 public:
